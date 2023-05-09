@@ -1,4 +1,5 @@
-﻿namespace Abstract
+﻿using System;
+namespace Abstract
 {
     internal class Program
     {
@@ -31,6 +32,28 @@
             // Triangulo miTriangulo = new Triangulo(5, 7, 9);
             // Console.WriteLine("Área del triángulo: " + miTriangulo.CalcularArea());
             // Console.WriteLine("Perímetro del triángulo: " + miTriangulo.CalcularPerimetro());
+
+            // ! Polimorfismo
+            // * 1.
+            // Estudiante Estudiante = new Estudiante();
+            // Estudiante.Presentarse();
+
+            // Profesor profe = new Profesor();
+            // profe.Presentarse();
+            // * 2.
+            // Hamburguesa burger = new Hamburguesa();
+            // burger.Preparar();
+            // Pizza pizza = new Pizza();
+            // pizza.Preparar();
+            // * 3. 
+            // Guitarra guitarra = new Guitarra();
+            // guitarra.Tocar();
+
+            // Piano piano = new Piano();
+            // piano.Tocar();
+
+
+
 
 
         }

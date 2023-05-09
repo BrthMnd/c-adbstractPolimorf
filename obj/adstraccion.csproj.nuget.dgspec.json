@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\adstraccion\\adstraccion.csproj": {}
+    "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\PoliAndAbstract\\c-adbstractPolimorf\\adstraccion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\adstraccion\\adstraccion.csproj": {
+    "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\PoliAndAbstract\\c-adbstractPolimorf\\adstraccion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\adstraccion\\adstraccion.csproj",
+        "projectUniqueName": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\PoliAndAbstract\\c-adbstractPolimorf\\adstraccion.csproj",
         "projectName": "adstraccion",
-        "projectPath": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\adstraccion\\adstraccion.csproj",
-        "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devel\\Documents\\Actividades\\Trimestre - 5\\.net\\adstraccion\\obj\\",
+        "projectPath": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\PoliAndAbstract\\c-adbstractPolimorf\\adstraccion.csproj",
+        "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sena\\Documents\\SisR\\trimestre7\\.net\\PoliAndAbstract\\c-adbstractPolimorf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

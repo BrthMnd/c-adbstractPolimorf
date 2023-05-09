@@ -28,3 +28,17 @@ Crear una clase rombo y otro Triangulo con los atributos necesarios para ejecuta
 finalmente crear un objeto para cada clase y mostrarlos por consola.
 
 Pista: Rombo lados iguales, triangulo lados distintos.
+
+## Polimorfismo 
+
+### Ejercicio 1
+
+Cree una clase persona con un memtodo presentarse y dos clases llamadas estudiante y profesor que implementan este metodo para presentarse como su rol respectivo
+
+### Ejercicio 2
+
+Crea una clase "comida" con un  metodo "preparar()" y dos clases derivadas pizza y hamburguesa,  que implementa este metodo segun su respectiva receta.
+
+### Ejercicio 3
+
+Crea una clase "instrumento" con un metodo "Tocar()" y dos clases derivadas Guitarra Y Piano que implementa este metodo para tocar segun si respectivo tipo de instrumento
