@@ -1,0 +1,15 @@
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\bin\Debug\net7.0\adstraccion.exe
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\bin\Debug\net7.0\adstraccion.deps.json
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\bin\Debug\net7.0\adstraccion.runtimeconfig.json
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\bin\Debug\net7.0\adstraccion.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\bin\Debug\net7.0\adstraccion.pdb
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.csproj.AssemblyReference.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.AssemblyInfo.cs
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\refint\adstraccion.dll
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.pdb
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\adstraccion.genruntimeconfig.cache
+C:\Users\devel\Documents\Actividades\Trimestre - 5\.net\adstraccion\obj\Debug\net7.0\ref\adstraccion.dll
